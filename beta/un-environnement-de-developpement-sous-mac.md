@@ -99,4 +99,4 @@ Sources
 
 Cet article se veut un condensé, une reformulation avec apport personnel, une adaptation de divers sites et articles trouvés lors de mon passage à OS X, dont voici les liens originaux :
 
-	[Un environnement de développement Web sous Mac, de Ronan Guilloux](https://github.com/ronanguilloux/Writings/blob/master/draft/Un-environnement-de-developpement-web-sous-Mac.md)
+* [Un environnement de développement Web sous Mac, de Ronan Guilloux](https://github.com/ronanguilloux/Writings/blob/master/draft/Un-environnement-de-developpement-web-sous-Mac.md)
