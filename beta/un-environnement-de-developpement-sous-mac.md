@@ -19,14 +19,14 @@ Passer à Mac OS X, c'était l'occasion de garder un environnement de travail ag
 Logiciels indispensables
 ------------------------
 
-**Se créér un environnement de développement agréable**
+**Se créer un environnement de développement agréable**
 
 Lors de mon expérience linuxienne, j'avais pu profiter de très bon émulateurs de terminal, avec zsh et vim. Sous Mac OS X, il a fallu installer plusieurs logiciels et outils afin d'améliorer mon confort et de me rapprocher un peu de mon expérience passée.
 
 Les logiciels et outils nécessaires au premier abord furent :
 
 * iTerm2
-* zsh
+* Shell zsh et framework Oh-my-zsh
 * brew
 * git
 * XCode
