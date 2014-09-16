@@ -78,7 +78,7 @@ Zsh est le shell par défaut dans Mac OS X. J'utilise le framework de configurat
 
 	curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh
 
-J'utilise le thème Agnoster, avec les plugins osx, sublime (permet de lancer sublime text dans le terminal avec la commande *st*), git, github et brew (à modifier dans le ~/.zshrc). Pour le thème Agnoster, j'ai rencontré quelques problèmes qui ont necessité l'installation de Powerline et des Powerline - Fonts.
+J'utilise le thème Agnoster, avec les plugins osx, sublime (permet de lancer sublime text dans le terminal avec la commande *st*), git, github et brew (à modifier dans le ~/.zshrc). Pour le thème Agnoster, j'ai rencontré quelques problèmes qui ont nécessité l'installation de Powerline et des Powerline - Fonts.
 
 
 6 - Powerline - Fonts
@@ -90,9 +90,9 @@ J'utilise le thème Agnoster, avec les plugins osx, sublime (permet de lancer su
 7 - Outils et logiciels de développement
 -----------------------------------------
 
-*MAMP : Serveur apache pour Mac OS X.
-*Python : Dernière version installée via brew.
-*[Java](https://www.java.com/fr/) : Installation du dernier jre, sur le site officiel.
+	*MAMP : Serveur apache pour Mac OS X.
+	*Python : Dernière version installée via brew.
+	*[Java](https://www.java.com/fr/) : Installation du dernier jre, sur le site officiel.
 
 Sources
 -------
