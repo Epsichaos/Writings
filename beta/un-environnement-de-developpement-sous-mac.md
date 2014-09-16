@@ -38,9 +38,9 @@ Les logiciels et outils nécessaires au premier abord furent :
 
 iTerm2 est l'émulateur de terminal *ultime* pour Mac OS X. Si l'émulateur présent par défaut sur le système est d'une qualité plus que correcte, iTerm2 possède un grand nombre de fonctionalités supplémentaires très utiles : 
 
-	*Le mode plein écran, avec cmd + enter.
-	*L'Instant Replay, avec cmd + alt + B, on peut *voyager dans le temps* pour retrouver les anciennes commandes saisies précédemment.
-	*Un mode exposé pour les onglets (comme pour les fenêtres classiques).
+* Le mode plein écran, avec cmd + enter.
+* L'Instant Replay, avec cmd + alt + B, on peut *voyager dans le temps* pour retrouver les anciennes commandes saisies précédemment.
+* Un mode exposé pour les onglets (comme pour les fenêtres classiques).
 
 Pour l'installer [iTerm2](http://iterm2.com/downloads.html)
 
