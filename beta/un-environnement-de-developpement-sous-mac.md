@@ -25,13 +25,13 @@ Lors de mon expérience linuxienne, j'avais pu profiter de très bon émulateurs
 
 Les logiciels et outils nécessaires au premier abord furent :
 
-*iTerm2
-*zsh
-*brew
-*git
-*XCode
-*Sublime Text 2 (ou 3)
-*Google Chrome
+* iTerm2
+* zsh
+* brew
+* git
+* XCode
+* Sublime Text 2 (ou 3)
+* Google Chrome
 
 1 - iTerm2
 ----------
@@ -90,9 +90,9 @@ J'utilise le thème Agnoster, avec les plugins osx, sublime (permet de lancer su
 7 - Outils et logiciels de développement
 -----------------------------------------
 
-*MAMP : Serveur apache pour Mac OS X.
-*Python : Dernière version installée via brew.
-*[Java](https://www.java.com/fr/) : Installation du dernier jre, sur le site officiel.
+* MAMP : Serveur apache pour Mac OS X.
+* Python : Dernière version installée via brew.
+* [Java](https://www.java.com/fr/) : Installation du dernier jre, sur le site officiel.
 
 Sources
 -------
