@@ -31,6 +31,7 @@ Les logiciels et outils nécessaires au premier abord furent :
 * git
 * XCode
 * Sublime Text 2 (ou 3)
+* Atom
 * Google Chrome
 
 1 - iTerm2
