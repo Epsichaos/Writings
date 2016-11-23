@@ -1,37 +1,21 @@
 Développement sous Mac OS X
 ============================
 
-De GNU/Linux à Mac OS X
-------------------------
-
-**Passer à Mac OS X après 5 ans de dual boot Windows - GNU/Linux**
-
-Victime d'un BSOD fatal sous Windows XP, j'avais à l'époque décidé de passer à GNU/Linux, profitant de cette occasion pour découvrir et m'initier un peu à la programmation à l'aide de Ubuntu 9.04.
-
-Aujourd'hui, après 5 ans de GNU/Linux, de dual boot, de multiples distributions (Backtrack, Fedora, Debian, Frugalware, Slackware, Slax, Arch Linux), je décide d'adopter un environnement de travail plus confortable, en passant sous Mac OS X.
-
-Pourquoi un tel choix ? Lassé de nombreux problèmes rencontrés sous GNU/Linux (incompatibilité matérielle, configurations foireuses, problèmes réseau récurrents, ...) - et probablement causés par ma tendance à tout trifouiller - je décide donc de passer à Mac OS X, espérant que cette fois-ci, l'alliance matériel/OS soit "parfaite", et surtout, espérant avoir un linux, sans les heures de configuration qui vont avec.
-
-Réinstaller un OS toutes les semaines, c'était amusant au début mais j'ai désormais besoin de qualité et de stabilité, sans avoir à configurer des heures, en naviguant de forum en forum pour trouver pourquoi la carte réseau déconne.
-
-Passer à Mac OS X, c'était l'occasion de garder un environnement de travail agréable et similaire à GNU/Linux, avec un shell et des éditeurs de text convenable.
-
 Logiciels indispensables
 ------------------------
 
 **Se créer un environnement de développement agréable**
 
-Lors de mon expérience linuxienne, j'avais pu profiter de très bon émulateurs de terminal, avec zsh et vim. Sous Mac OS X, il a fallu installer plusieurs logiciels et outils afin d'améliorer mon confort et de me rapprocher un peu de mon expérience passée.
-
 Les logiciels et outils nécessaires au premier abord furent :
 
-* iTerm2
-* Shell zsh et framework Oh-my-zsh
 * brew
 * git
-* XCode
+* Oh-my-zsh
+* iTerm2
+* Docker
 * Sublime Text 2 (ou 3)
 * Atom
+* IntelliJ
 * Google Chrome
 
 1 - iTerm2
@@ -62,7 +46,7 @@ L'installation de Git se fait en téléchargeant l'installateur sur le [Site off
 4 - Brew
 ---------
 
-Homebrew est un gestionnaire de paquet pour Mac OS X, similaire au `apt-get` que l'on connaît bien chez Debian -  Ubuntu. Il est une alternative au très connu Macports.
+Homebrew est un gestionnaire de paquet pour Mac OS X, similaire au `apt-get` que l'on connaît bien chez Debian -  Ubuntu. C'est une alternative de Macports.
 
 Installation : Dans un terminal, saisir : 
 
@@ -95,9 +79,3 @@ J'utilise le thème Agnoster, avec les plugins osx, sublime (permet de lancer su
 * Python : Dernière version installée via brew.
 * [Java](https://www.java.com/fr/) : Installation du dernier jre, sur le site officiel.
 
-Sources
--------
-
-Cet article se veut un condensé, une reformulation avec apport personnel, une adaptation de divers sites et articles trouvés lors de mon passage à OS X, dont voici les liens originaux :
-
-* [Un environnement de développement Web sous Mac, de Ronan Guilloux](https://github.com/ronanguilloux/Writings/blob/master/draft/Un-environnement-de-developpement-web-sous-Mac.md)
